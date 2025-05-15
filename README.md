@@ -19,7 +19,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ## 📫 Como Entrar em Contato
 - 📧 Email: [seu.email@exemplo.com](mailto:seu.email@exemplo.com)
-- 💼 LinkedIn: [Seu Perfil no LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- 💼 LinkedIn: [Seu Perfil no LinkedIn](linkedin.com/in/gabriel-cordeiro-souza/)
 
 ---
 
